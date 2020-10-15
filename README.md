@@ -1,5 +1,8 @@
 # SARS-CoV-2 em Caraí - MG
 
+## !! DADOS DESATUALIZADOS
+### Em função da Secretária Municipal de Saúda não disponibilizar os dados em arquivo .csv, dificultando a atualização diária por minha parte.
+
 ##### O seguinte repositório apresenta os dados da **Evolução do Novo Coronavirus no município de Caraí** no Estado de **Minas Gerais**.
 Foram expostos dados de **contaminação, letalidade, recuperação e avanço** do referido virus no município, de acordo dados disponibilizados pela **Secretaria de Saúde e pela Prefeitura Municipal de Caraí.**
 
